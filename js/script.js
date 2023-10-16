@@ -1,6 +1,6 @@
 const signUpButton = document.getElementById('signUp');
 const signInButton = document.getElementById('signIn');
-const container1 = document.querySelector('.reigster-div');
+const container1 = document.querySelector('.register-div');
 const container2 = document.querySelector('.login-div');
 
 signUpButton.addEventListener('click', function() {
